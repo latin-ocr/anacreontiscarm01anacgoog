@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "anacreontiscarm01anacgoog_0009.png"; bbox 0 0 2258 4306; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 1454 1011 1541">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 1454 1011 1541">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 1454 1011 1541; baseline 0.006 -10.085"><span class='ocrx_word' id='word_1_1' title='bbox 235 1454 856 1541; x_wconf 61' lang='lat' dir='ltr'>0‚1=‘&#39;2··.·‘&#39;“wowa.</span> <span class='ocrx_word' id='word_1_2' title='bbox 867 1459 1011 1541; x_wconf 58' lang='grc' dir='ltr'>’,Μ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 160 1681 948 1829">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 160 1681 1069 1829">
+     <span class='ocr_line' id='line_1_2' title="bbox 160 1681 948 1829; baseline -0.007 -74"><span class='ocrx_word' id='word_1_3' title='bbox 160 1681 415 1829; x_wconf 25' lang='lat' dir='ltr'>&#39;pairac</span> <span class='ocrx_word' id='word_1_4' title='bbox 446 1696 812 1801; x_wconf 46' lang='lat' dir='ltr'>,W‘Nffl</span> <span class='ocrx_word' id='word_1_5' title='bbox 799 1704 948 1783; x_wconf 45' lang='lat' dir='ltr'>qm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1134 4306">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1134 4306">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1134 4306; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1134 4306; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
